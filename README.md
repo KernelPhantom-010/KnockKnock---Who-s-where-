@@ -4,7 +4,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://i.postimg.cc/s2BSQnxX/Screenshot-2026-02-15-225435.png" alt="project-screenshot" width="400" height="400/">
+<img src="https://i.postimg.cc/s2BSQnxX/Screenshot-2026-02-15-225435.png" alt="project-screenshot" width="1359" height="722/">
 
   
   
